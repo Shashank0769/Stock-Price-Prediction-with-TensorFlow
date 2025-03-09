@@ -5,3 +5,4 @@ tensorboard-data-server==0.7.2
 safetensors==0.5.2
 scikit-learn==1.6.1
 streamlit==1.41.1
+tensorflow

@@ -68,6 +68,8 @@ Stock_price_prediction/
 
 ## Preview
 
+Get my deployment through:https://stock-price-prediction-with-tensorflow-eykzqesil2urt65k2xcami.streamlit.app/
+
 ![Screenshot 2025-03-09 193310](https://github.com/user-attachments/assets/f8e56766-1025-4784-b990-8a600f6c7c0a)
 
 

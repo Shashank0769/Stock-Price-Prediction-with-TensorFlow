@@ -66,7 +66,10 @@ Stock_price_prediction/
 
 ---
 
-![Screenshot 2025-03-09 192554](https://github.com/user-attachments/assets/c816b875-7f52-413f-83f9-ce8ce7ccaa0b)
+## Preview
+
+![Screenshot 2025-03-09 193310](https://github.com/user-attachments/assets/f8e56766-1025-4784-b990-8a600f6c7c0a)
+
 
 
 ## 💡 Future Enhancements

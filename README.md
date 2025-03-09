@@ -66,6 +66,9 @@ Stock_price_prediction/
 
 ---
 
+![Screenshot 2025-03-09 192554](https://github.com/user-attachments/assets/c816b875-7f52-413f-83f9-ce8ce7ccaa0b)
+
+
 ## 💡 Future Enhancements
 - Implement **LSTM model** for better accuracy
 - Add **multiple stock predictions** in one go

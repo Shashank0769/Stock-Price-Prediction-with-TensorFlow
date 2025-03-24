@@ -16,7 +16,7 @@ This project predicts the next day's stock price using a simple machine learning
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_USERNAME/Stock_price_prediction.git
+git clone https://github.com/Shashank 0769/Stock_price_prediction.git
 cd Stock_price_prediction
 ```
 

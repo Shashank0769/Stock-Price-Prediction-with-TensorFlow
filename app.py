@@ -56,7 +56,7 @@ if st.button("Predict Next Day's Price"):
             time.sleep(0.5)
 
             model.compile(optimizer='adam', loss='mean_squared_error')
-            model.fit(x_train, y_train, epochs=1000, verbose=1)  # Set verbose=0 to avoid clutter
+            model.fit(x_train, y_train, epochs=300, verbose=1)  # Set verbose=0 to avoid clutter
             progress_bar.progress(90)
 
             # Predict next day's stock price
